@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7955e7e1-e848-4055-a16f-cf12c17e69fd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/member.html" afterPath="$PROJECT_DIR$/member.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/member_photo/在读本科生/2016级/赵畅/赵畅.jpg" afterPath="$PROJECT_DIR$/images/member_photo/在读本科生/2016级/赵畅/赵畅.jpg" />
     </list>
     <ignored path="Emil-501.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -268,12 +268,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1497186307785</updated>
-      <workItem from="1497186309524" duration="11983000" />
+      <workItem from="1497186309524" duration="12581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11983000" />
+    <option name="totallyTimeSpent" value="12581000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="723" extended-state="0" />
