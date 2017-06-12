@@ -51,8 +51,7 @@
 		$(document).ready(function(){
 			$("a[data-gal^='prettyPhoto']").prettyPhoto();
 			$(".nav-tabs li a").click(function() {
-			    alert(this.href);
-				
+				$("#"+this.href.split[1]+"").class="active";
 	                 });
 		});
 	</script>
