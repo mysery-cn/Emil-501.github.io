@@ -54,10 +54,11 @@
 				//alert(this.href.split("#")[1]);
 				$("#"+this.href.split("#")[1]).addClass("active");
 				$(".tab-pane").each(function(i){
+					alert(i.id);
 					if(i.id==this.href.split("#")[1])
 					{$("#"+this.href.split("#")[1]).addClass("active");}
 					else{
-						alert(i.id);
+						
 					}
 				});
 	                 });
