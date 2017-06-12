@@ -62,11 +62,10 @@
 		$(".tab-pane").each(function(i){
 			if(this.id==add)
 			{
-			      $("#"+add).addClass("active");
+			      this.addClass("active");
 			}
 			else{
-				alert(this.id);
-			      $("#"+add).removeClass("active");
+			      this.removeClass("active");
 			}
 		});
 		}
