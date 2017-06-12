@@ -55,15 +55,18 @@
 				//alert(this.href.split("#")[1]);
 				$("#"+this.href.split("#")[1]).addClass("active");
 				add=this.href.split("#")[1];
+				active(add);
 	                 });
+		});
+		function active(add){
 			$(".tab-pane").each(function(i){
 					if(this.id==add)
 					{$("#"+add).addClass("active");}
 					else{
 					$("#"+add).removeClass("active");
 					}
-				});
-		});
+			});
+		}
 	</script>
 	<!-- Tooltip -->
 	<script src="js/tooltip.js"></script>
